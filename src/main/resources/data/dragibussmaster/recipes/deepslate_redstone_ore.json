@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R#",
+        "RDR",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stone"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "D": {
+            "item": "minecraft:deepslate"
+        }
+    },
+    "result": {
+        "item": "minecraft:deepslate_redstone_ore",
+        "count": 1
+    }
+}

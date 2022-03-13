@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "OOO",
+        "TTT"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:fern"
+        },
+        "O": {
+            "item": "minecraft:oak_leaves"
+        },
+        "T": {
+            "item": "minecraft:tall_grass"
+        }
+    },
+    "result": {
+        "item": "minecraft:azalea",
+        "count": 1
+    }
+}

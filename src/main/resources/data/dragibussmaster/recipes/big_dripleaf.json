@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        " /G",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:lily_pad"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "G": {
+            "item": "minecraft:grass"
+        }
+    },
+    "result": {
+        "item": "minecraft:big_dripleaf",
+        "count": 1
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:flowering_azalea"
+        },
+        {
+            "item": "minecraft:oak_leaves"
+        },
+        {
+            "item": "minecraft:jungle_leaves"
+        }
+    ],
+    "result": {
+        "item": "minecraft:flowering_azalea_leaves",
+        "count": 2
+    }
+}

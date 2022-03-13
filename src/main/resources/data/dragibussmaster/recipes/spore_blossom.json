@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "PAP"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:grass"
+        },
+        "P": {
+            "item": "minecraft:pink_tulip"
+        },
+        "A": {
+            "item": "minecraft:allium"
+        }
+    },
+    "result": {
+        "item": "minecraft:spore_blossom",
+        "count": 1
+    }
+}

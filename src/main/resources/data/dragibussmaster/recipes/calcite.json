@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#B#",
+        " S ",
+        "#B#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gravel"
+        },
+        "B": {
+            "item": "minecraft:bone_meal"
+        },
+        "S": {
+            "item": "minecraft:stone"
+        }
+    },
+    "result": {
+        "item": "minecraft:calcite",
+        "count": 1
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:glow_ink_sac"
+        },
+        {
+            "item": "minecraft:vine"
+        }
+    ],
+    "result": {
+        "item": "minecraft:glow_lichen",
+        "count": 1
+    }
+}

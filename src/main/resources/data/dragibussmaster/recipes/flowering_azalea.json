@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#O#",
+        "AHP",
+        "TTT"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:fern"
+        },
+        "O": {
+            "item": "minecraft:oxeye_daisy"
+        },
+        "A": {
+            "item": "minecraft:allium"
+        },
+        "H": {
+            "item": "minecraft:oak_leaves"
+        },
+        "P": {
+            "item": "minecraft:pink_tulip"
+        },
+        "T": {
+            "item": "minecraft:tall_grass"
+        }
+    },
+    "result": {
+        "item": "minecraft:flowering_azalea",
+        "count": 1
+    }
+}
